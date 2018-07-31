@@ -1,7 +1,7 @@
 Addressbook Tutorial
 ====================
 
-This  teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
+This  teaches  of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
 a fast read for learning how t started - not an example on how application should be
 designed. Please no this example uses and requires Java 8 to work.
 
